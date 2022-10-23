@@ -1,0 +1,36 @@
+body, html {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background-color:gainsboro;
+    width: auto;
+    overflow-x: hidden;
+    margin-right: 30px;
+    margin-left: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+
+.main_head, .head_revbegin, .head_revolution, .head_results, .head_after {
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.header, .photo1, .photo2, .photo3, .photo4 {
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+}
+
+.revbegin, .revolution, .results, .after {
+    text-align: justify;
+}
+
+.footer {
+    font-size: 12px;
+    font-style: italic;
+    padding-bottom: 10px;
+    
+}
